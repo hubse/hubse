@@ -56,7 +56,7 @@ I believe in **continuous improvement** and **always striving for excellence** â
 
 ## ğŸ† GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hubse&count_private=true&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hubse&show_icons=true&hide_title=true)
 
 ---
 
