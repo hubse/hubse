@@ -49,7 +49,7 @@ I believe in **continuous improvement** and **always striving for excellence** â
 
 ## ðŸ“« Let's Connect:
 - **LinkedIn**: [https://www.linkedin.com/in/hassankhaskheli/](https://www.linkedin.com/in/hassankhaskheli/)
-- **Website/Portfolio**: [be.net/hassan.khaskhlei](https://be.net/hassankhaskheli)
+- **Website/Portfolio**: [be.net/hassankhaskheli](https://be.net/hassankhaskheli)
 
 
 ---
