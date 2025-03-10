@@ -1,6 +1,7 @@
 # Hi, I'm Hassan 👋
 
-I'm a **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions. **Passionate about technology**, problem-solving, and delivering scalable, high-quality solutions in fast-paced environments, I prioritize continuous improvement and excellence in both my code and leadership.
+I'm a **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions. 
+**Passionate about technology**, problem-solving, and delivering scalable, high-quality solutions in fast-paced environments, I prioritize continuous improvement and excellence in both my code and leadership.
 
 ## 🚀 Core Competencies:
 
@@ -63,16 +64,12 @@ To share soon!
 ---
 
 ## 💬 Passion & Philosophy:
-I’m deeply passionate about the art of **software engineering** and the impact technology has on shaping the future. For me, software engineering isn’t just about writing code — it’s about solving real-world problems quickly and efficiently. I strive to stay on the cutting edge of technology, and I embrace the fast pace of the industry to deliver innovative, high-quality solutions.
-
-As a **Development Lead**, I’m constantly inspired by the energy of my team and the thrill of building something from the ground up. I thrive in high-pressure situations where I can turn ideas into reality at a rapid pace, always keeping quality, collaboration, and speed in mind.
+I'm passionate about field **software engineering** and its impact on the future. For me, it's about solving real-world problems efficiently and staying ahead with innovative, high-quality solutions. As a **Development Lead**, I’m driven by the energy of my team and the challenge of building from the ground up, thriving in fast-paced environments where quality, collaboration, and speed are key.
 
 ---
 
 ## 💡 Fun Fact:
-Despite my extensive experience, I still get excited by **new challenges** and the opportunity to learn something new. Whether it’s optimizing performance, mentoring my team, or trying out a new framework — I’m always looking for ways to improve and innovate.
-
-If you’re interested in collaborating on exciting projects or sharing insights on **speed-driven software development**, don’t hesitate to reach out!
+I’m excited by **new challenges** and constantly seek opportunities to learn and innovate, whether optimizing performance, mentoring, or **exploring new frameworks**. If you're interested in collaborating on **speed-driven** software development, feel free to reach out!
 
 ---
 
