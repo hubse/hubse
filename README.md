@@ -1,6 +1,6 @@
 # Hi, I'm Hassan 👋
 
-I'm a **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions. 
+I'm a **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions.\
 **Passionate about technology**, problem-solving, and delivering scalable, high-quality solutions in fast-paced environments, I prioritize continuous improvement and excellence in both my code and leadership.
 
 ## 🚀 Core Competencies:
@@ -39,7 +39,7 @@ I'm a **Software Engineer** with **18+ years of experience** in software design,
 ---
 
 ## 🌱 Currently Learning:
-- **Cloud-Native Development**: Leveraging **Kubernetes**, **AWS**, and **microservices** to build scalable, high-performing solutions in record time.
+- **Cloud-Native Development**: Leveraging **Kubernetes**, **AWS**, and **microservices** to build scalable, high-performing solutions.
 - **Machine Learning & AI**: Integrating smart technologies into solutions to bring additional value and optimize performance.
 - **Serverless Computing**: Exploring serverless architectures to drive rapid, efficient development and cost optimization.
 
@@ -58,13 +58,8 @@ I'm a **Software Engineer** with **18+ years of experience** in software design,
 
 ---
 
-## 🔧 Open Source Projects:
-To share soon!
-
----
-
 ## 💬 Passion & Philosophy:
-I'm passionate about field **software engineering** and its impact on the future. For me, it's about solving real-world problems efficiently and staying ahead with innovative, high-quality solutions. As a **Development Lead**, I’m driven by the energy of my team and the challenge of building from the ground up, thriving in fast-paced environments where quality, collaboration, and speed are key.
+I'm passionate about my field **software engineering** and love to stay ahead with technology. As a **Development Lead**, I’m driven by the energy of my team and the challenge of building from the ground up, thriving in fast-paced environments where quality, collaboration, and speed are key.
 
 ---
 
