@@ -48,8 +48,8 @@ I'm a **Software Engineer** with **18+ years of experience** in software design,
 ---
 
 ## 📫 Let's Connect:
-- **LinkedIn**: [https://www.linkedin.com/in/hassankhaskheli/](https://www.linkedin.com/in/hassankhaskheli/)
-- **Website/Portfolio**: [be.net/hassankhaskheli](https://be.net/hassankhaskheli)
+- **LinkedIn**: [linkedin](https://www.linkedin.com/in/hassankhaskheli/)
+- **Website/Portfolio**: [Behance](https://be.net/hassankhaskheli)
 
 
 ---
