@@ -33,7 +33,7 @@ I'm a **Software Engineer** with **18+ years of experience** in software design,
 
 ---
 
-### **Leadership & Management:**
+## **Leadership & Management:**
 - **Team Leadership**: Leading agile teams with a focus on speed and quality, mentoring junior developers, and fostering innovation.
 - **Project Management**: Overseeing rapid delivery of software solutions, managing timelines, and ensuring high standards in a fast-paced environment.
 - **Technical Strategy**: Shaping and implementing technical vision for products and services, with a focus on scalability and performance.
