@@ -1,6 +1,6 @@
 # Hi, I'm Hassan 👋
 
-I'm a **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions.\
+A **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions.\
 **Passionate about technology**, problem-solving, and delivering scalable, high-quality solutions in fast-paced environments, I prioritize continuous improvement and excellence in both my code and leadership.
 
 ## 🚀 Core Competencies:
@@ -14,10 +14,10 @@ I'm a **Software Engineer** with **18+ years of experience** in software design,
 
 ## 🚀 Skills & Technologies:
 ### **Languages:**
-- Java, C#, C/C++, JavaScript, TypeScript, SQL, PHP, Shell scripting
+- Java, C#, C/C++, JavaScript, TypeScript, SQL, PHP
 
 ### **Frameworks & Libraries:**
-- **Frontend**: React, Angular, Vue.js, SASS, Bootstrap
+- **Frontend**: React, Angular, Vue.js, FSM, Bootstrap
 - **Backend**: Node.js, Express, Spring Boot, .NET Core
 - **Databases**: SQLServer, Oracle, PostgreSQL, MySQL, MongoDB, Redis
 
@@ -28,13 +28,13 @@ I'm a **Software Engineer** with **18+ years of experience** in software design,
 - JSON, XML, Plain Text
 
 ### **Tools:**
-- Git, GitHub, Jira, Confluence, Slack, Visual Studio, IntelliJ, VSCode
+- Git, GitHub, Jira, Slack, Visual Studio, IntelliJ, VSCode
 - Agile methodologies, Scrum, Kanban
 
 ---
 
 ## **Leadership & Management:**
-- **Team Leadership**: Leading agile teams with a focus on speed and quality, mentoring junior developers, and fostering innovation.
+- **Team Leadership**: Leading agile teams with a focus on quality, mentoring junior developers, and fostering innovation.
 - **Project Management**: Overseeing rapid delivery of software solutions, managing timelines, and ensuring high standards in a fast-paced environment.
 - **Technical Strategy**: Shaping and implementing technical vision for products and services, with a focus on scalability and performance.
 
@@ -48,7 +48,7 @@ I'm a **Software Engineer** with **18+ years of experience** in software design,
 ---
 
 ## 📫 Let's Connect:
-- **How to reach me**: [linkedin](https://www.linkedin.com/in/hassankhaskheli/) , [Behance](https://be.net/hassankhaskheli)
+- **How to reach me**: [linkedin](https://www.linkedin.com/in/hassankhaskheli/) | [Behance](https://be.net/hassankhaskheli)
 
 ---
 
