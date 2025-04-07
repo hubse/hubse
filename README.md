@@ -22,13 +22,13 @@ A **Software Engineer** with **18+ years of experience** in software design, dev
 - **Databases**: SQLServer, Oracle, PostgreSQL, MySQL, MongoDB, Redis
 
 ### **DevOps & Cloud:**
-- AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, CI/CD pipelines
+- AWS, Azure, Docker, Kubernetes, Jenkins, Ansible, Terraform, CI/CD pipelines
 
 ### **Content Format:**
 - JSON, XML, Plain Text
 
 ### **Tools:**
-- Git, GitHub, Jira, Slack, Visual Studio, IntelliJ, VSCode
+- Git, GitHub, Jira, Slack, Visual Studio, IntelliJ, VSCode, Eclipse, Netbeans
 - Agile methodologies, Scrum, Kanban
 
 ---
@@ -41,10 +41,7 @@ A **Software Engineer** with **18+ years of experience** in software design, dev
 ---
 
 ## 🌱 Currently Learning:
-- **Cloud-Native Development**: Leveraging **Kubernetes**, **AWS**, and **microservices** to build scalable, high-performing solutions.
-- **Machine Learning & AI**: Integrating smart technologies into solutions to bring additional value and optimize performance.
-- **Serverless Computing**: Exploring serverless architectures to drive rapid, efficient development and cost optimization.
-
+- Having successfully leveraged cutting-edge technologies like Kubernetes, Cloud development, Serverless Computing and microservices to deliver scalable, high-performance solutions, I’m always eager to explore new platforms for efficient development and cost optimization.
 ---
 
 ## 📫 Let's Connect:
@@ -59,12 +56,12 @@ A **Software Engineer** with **18+ years of experience** in software design, dev
 ---
 
 ## 💬 Passion & Philosophy:
-I'm passionate about my field **software engineering** and love to stay ahead with technology. As a **Development Lead**, I’m driven by the energy of my team and the challenge of building from the ground up, thriving in fast-paced environments where quality, collaboration, and speed are key.
+- I'm passionate about my field **software engineering**, love staying ahead with technology and drive continuous **innovation as a Lead**.
 
 ---
 
 ## 💡 Fun Fact:
-I’m excited by **new challenges** and constantly seek opportunities to learn and innovate, whether optimizing performance, mentoring, or **exploring new frameworks**. If you're interested in collaborating on **speed-driven** software development, feel free to reach out!
+- I’m excited by **new challenges** and constantly seek opportunities to learn and innovate. If you're interested in collaborating on **speed-driven** software development, feel free to reach out!
 
 ---
 
