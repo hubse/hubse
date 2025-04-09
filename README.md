@@ -1,7 +1,7 @@
 # Hi, I'm Hassan 👋
 
 A **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions.\
-**Passionate about technology**, problem-solving, and delivering scalable, high-quality solutions in fast-paced environments, I prioritize continuous improvement and excellence in both my code and leadership.
+Passionate about **technology**, problem-solving, and delivering scalable, high-quality **solutions in fast-paced environments**, I prioritize continuous improvement and excellence in both my code and leadership.
 
 ## 🚀 Core Competencies:
 
@@ -14,10 +14,10 @@ A **Software Engineer** with **18+ years of experience** in software design, dev
 
 ## 🚀 Skills & Technologies:
 ### **Languages:**
-- Java, C#, C/C++, JavaScript, TypeScript, SQL, PHP
+- Java/ J2EE, C#, C/C++, JavaScript, TypeScript, SQL, PHP
 
 ### **Frameworks & Libraries:**
-- **Frontend**: React, Angular, Vue.js, FSM, Bootstrap
+- **Frontend**: React, Angular, Vue.js, FSM (finite state machine), Bootstrap
 - **Backend**: Node.js, Express, Spring Boot, .NET Core
 - **Databases**: SQLServer, Oracle, PostgreSQL, MySQL, MongoDB, Redis
 
@@ -47,6 +47,7 @@ A **Software Engineer** with **18+ years of experience** in software design, dev
 ## 📫 Let's Connect:
 - **How to reach me**: [linkedin](https://www.linkedin.com/in/hassankhaskheli/) | [Behance](https://be.net/hassankhaskheli)
 
+<!--
 ---
 
 ## 🏆 GitHub Stats:
@@ -54,7 +55,7 @@ A **Software Engineer** with **18+ years of experience** in software design, dev
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hubse&show_icons=true&hide_title=true)
 
 ---
-
+-->
 ## 💬 Passion & Philosophy:
 - I'm passionate about my field **software engineering**, love staying ahead with technology and drive continuous **innovation as a Lead**.
 
