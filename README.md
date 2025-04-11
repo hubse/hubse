@@ -1,6 +1,6 @@
 # Hi, I'm Hassan 👋
 
-A **Software Engineer** with **18+ years of experience** in software design, development, and leadership. Currently, as a **Development Lead**, I guide teams, drive innovation, and make key technical decisions.\
+A **Software Engineer** with 18+ years of **experience** in software design, development, and leadership across various domains, including digitalization, banking, IoT, logistics & supply chain, real estate, e-commerce and healthcare. Currently, as a Development Lead, I guide teams, drive innovation, and make key technical decisions.\
 Passionate about **technology**, problem-solving, and delivering scalable, high-quality **solutions in fast-paced environments**, I prioritize continuous improvement and excellence in both my code and leadership.
 
 ## 🚀 Core Competencies:
