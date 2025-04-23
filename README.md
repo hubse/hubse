@@ -47,6 +47,8 @@ Passionate about **technology**, problem-solving, and delivering scalable, high-
 ## 📫 Let's Connect:
 - **How to reach me**: [linkedin](https://www.linkedin.com/in/hassankhaskheli/) | [Behance](https://be.net/hassankhaskheli)
 
+---
+
 <!--
 ---
 
@@ -62,7 +64,7 @@ Passionate about **technology**, problem-solving, and delivering scalable, high-
 ---
 
 ## 💡 Fun Fact:
-- I’m excited by **new challenges** and constantly seek opportunities to learn and innovate. If you're interested in collaborating on **speed-driven** software development, feel free to reach out!
+- I’m excited by **new challenges** and constantly seek opportunities to learn and innovate. Feel free to reach out.
 
 ---
 
