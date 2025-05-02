@@ -1,9 +1,9 @@
 # Hi, I'm Hassan 👋
 
-A **Software Engineer** with 18+ years of **experience** in software design, development, and leadership across various domains, including digitalization, banking, IoT, logistics & supply chain, real estate, e-commerce and healthcare. Currently, as a Development Lead, I guide teams, drive innovation, and make key technical decisions.\
-Passionate about **technology**, problem-solving, and delivering scalable, high-quality **solutions in fast-paced environments**, I prioritize continuous improvement and excellence in both my code and leadership.
+A seasoned **Software Engineer** with 18+ years of **experience** in software design, development, and leadership across various domains, including Digitalization, Banking, IoT, Logistics & Supply Chain, Real Estate, E-Commerce and Healthcare. Currently, as a Development Lead, I guide teams, drive innovation, and make key technical decisions.\
+I'm passionate about **technologies**, problem-solving, and delivering scalable, high-quality **solutions in fast-paced environments**, I prioritize continuous improvement and excellence in both my code and leadership.
 
-## 🚀 Core Competencies:
+## Core Competencies:
 
 - Full-Stack Development
 - Team Lead/ Management
@@ -12,24 +12,38 @@ Passionate about **technology**, problem-solving, and delivering scalable, high-
 - R & D
 ---
 
-## 🚀 Skills & Technologies:
+## Skills & Technologies:
 ### **Languages:**
 - Java/ J2EE, C#, C/C++, JavaScript, TypeScript, SQL, PHP
 
 ### **Frameworks & Libraries:**
 - **Frontend**: React, Angular, Vue.js, FSM (finite state machine), Bootstrap
-- **Backend**: Node.js, Express, Spring Boot, .NET Core
+- **Backend**: SpringMVC, Spring Boot, Quarkus, Node.js, Express, .NET Core, RESTful and GraphQL APIs
 - **Databases**: SQLServer, Oracle, PostgreSQL, MySQL, MongoDB, Redis
 
 ### **DevOps & Cloud:**
 - AWS, Azure, Docker, Kubernetes, Jenkins, Ansible, Terraform, CI/CD pipelines
 
+### **Event-Driven & Streaming Technologies:**
+- Apache Kafka, RabbitMQ, WebSockets
+
+### **Security & Authentication:**
+- OAuth2, JWT, SSL/TLS, SAML, Active Directory/LDAP, OWASP best practices, secure coding, Keycloak
+
+### **Logging & Monitoring:**
+- ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Splunk, CloudWatch, Fluentd
+
+### **API Tools:**
+- Postman, Swagger / OpenAPI, SoapUI, Insomnia
+
 ### **Content Format:**
 - JSON, XML, Plain Text
 
 ### **Tools:**
-- Git, GitHub, Jira, Slack, Visual Studio, IntelliJ, VSCode, Eclipse, Netbeans
-- Agile methodologies, Scrum, Kanban
+- Git, GitHub, Jira, Slack, Visual Studio, IntelliJ, VSCode, Eclipse, Netbeans, Maven, Gradle, Webpack
+
+### **Others**
+- Agile methodologies, Scrum, Kanban, Microservices Architecture, Best Practices & Methodologies i.e. DDD/TDD/BDD, Software Design Patterns, System Architecture, State Management, Redux
 
 ---
 
@@ -40,11 +54,11 @@ Passionate about **technology**, problem-solving, and delivering scalable, high-
 
 ---
 
-## 🌱 Currently Learning:
+## Currently Learning:
 - Having successfully leveraged cutting-edge technologies like Kubernetes, Cloud development, Serverless Computing and microservices to deliver scalable, high-performance solutions, I’m always eager to explore new platforms for efficient development and cost optimization.
 ---
 
-## 📫 Let's Connect:
+## Let's Connect:
 - **How to reach me**: [linkedin](https://www.linkedin.com/in/hassankhaskheli/) | [Behance](https://be.net/hassankhaskheli)
 
 ---
