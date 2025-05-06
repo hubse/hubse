@@ -43,7 +43,7 @@ I'm passionate about **technologies**, problem-solving, and delivering scalable,
 - Git, GitHub, Jira, Slack, Visual Studio, IntelliJ, VSCode, Eclipse, Netbeans, Maven, Gradle, Webpack
 
 ### **Others**
-- Agile methodologies, Scrum, Kanban, Microservices Architecture, Best Practices & Methodologies i.e. DDD/TDD/BDD, Software Design Patterns, System Architecture, State Management, Redux
+- Agile methodologies, Scrum, Kanban, Microservices Architecture, BFF, Microfrontends, Best Practices & Methodologies i.e. DDD/TDD/BDD, Software Design Patterns, System Architecture, State Management, Redux
 
 ---
 
@@ -66,18 +66,18 @@ I'm passionate about **technologies**, problem-solving, and delivering scalable,
 <!--
 ---
 
-## 🏆 GitHub Stats:
+## GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hubse&show_icons=true&hide_title=true)
 
 ---
 -->
-## 💬 Passion & Philosophy:
+## Passion & Philosophy:
 - I'm passionate about my field **software engineering**, love staying ahead with technology and drive continuous **innovation as a Lead**.
 
 ---
 
-## 💡 Fun Fact:
+## Fun Fact:
 - I’m excited by **new challenges** and constantly seek opportunities to learn and innovate. Feel free to reach out.
 
 ---
