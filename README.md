@@ -10,6 +10,7 @@ I'm passionate about **technologies**, problem-solving, and delivering scalable,
 - Technical Expertise
 - Project Management
 - R & D
+- Consultancy
 ---
 
 ## Skills & Technologies:
@@ -18,7 +19,7 @@ I'm passionate about **technologies**, problem-solving, and delivering scalable,
 
 ### **Frameworks & Libraries:**
 - **Frontend**: React, Angular, Vue.js, FSM (finite state machine), Bootstrap
-- **Backend**: SpringMVC, Spring Boot, Quarkus, Node.js, Express, .NET Core, RESTful and GraphQL APIs
+- **Backend**: SpringMVC, Spring Boot, Quarkus, Node.js, Express, .NET Core, Laravel, RESTful and GraphQL APIs
 - **Databases**: SQLServer, Oracle, PostgreSQL, MySQL, MongoDB, Redis
 
 ### **DevOps & Cloud:**
