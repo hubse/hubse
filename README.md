@@ -67,8 +67,10 @@ Worked across diverse platforms, environments, and technologies, with hands-on e
 - DevOps & Developer Experience 
 - Application Modernization 
 - Engineering Productivity 
-- AI-assisted Software Engineering 
-    
+- AI-assisted Software Engineering
+
+---
+
 <!--
 ## Currently Learning:
 - Having successfully leveraged cutting-edge technologies like Kubernetes, Cloud development, Serverless Computing and microservices to deliver scalable, high-performance solutions, I’m always eager to explore new platforms for efficient development and cost optimization.
