@@ -28,7 +28,6 @@ I'm passionate about **technologies**, problem-solving, and delivering scalable,
 - Event-Driven Systems 
 - DevOps & Developer Experience 
 - Application Modernization 
-- Engineering Productivity 
 - AI-assisted Software Engineering
 
 ---
